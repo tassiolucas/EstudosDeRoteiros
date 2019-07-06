@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Roteiro0"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Roteiro0">
+				<Option output="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Roteiro0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/."/>
+					<Add directory="C:/Win-builds/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 Roteiro0"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Roteiro0/fast">
+				<Option output="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Roteiro0.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir=""/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/."/>
+					<Add directory="C:/Win-builds/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\win-builds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 Roteiro0/fast"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Win-builds/bin/mingw32-make.exe -f &quot;D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/Fatorial.c">
+			<Option target="Roteiro0"/>
+		</Unit>
+		<Unit filename="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/Quadrado.c">
+			<Option target="Roteiro0"/>
+		</Unit>
+		<Unit filename="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/cmake-build-debug/Soma.c">
+			<Option target="Roteiro0"/>
+		</Unit>
+		<Unit filename="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/main.c">
+			<Option target="Roteiro0"/>
+		</Unit>
+		<Unit filename="D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
