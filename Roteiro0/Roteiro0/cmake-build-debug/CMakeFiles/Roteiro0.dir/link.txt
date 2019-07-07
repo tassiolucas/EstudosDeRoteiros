@@ -1,3 +1,1 @@
-"C:\Program Files\JetBrains\CLion 2019.1.4\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\Roteiro0.dir/objects.a
-C:\Win-builds\bin\ar.exe cr CMakeFiles\Roteiro0.dir/objects.a @CMakeFiles\Roteiro0.dir\objects1.rsp
-C:\Win-builds\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\Roteiro0.dir/objects.a -Wl,--no-whole-archive  -o Roteiro0.exe -Wl,--out-implib,libRoteiro0.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Roteiro0.dir\linklibs.rsp
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Roteiro0.dir/main.c.o  -o Roteiro0 

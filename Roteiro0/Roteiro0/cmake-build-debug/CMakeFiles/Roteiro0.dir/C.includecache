@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/Projetos/EstudosDeRoteiros/Roteiro0/Roteiro0/main.c
+/Users/tassiolucas/EstudosDeRoteiros/Roteiro0/Roteiro0/main.c
 stdio.h
+-
+string.h
 -
 

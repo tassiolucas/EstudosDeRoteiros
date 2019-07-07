@@ -1,12 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Roteiro0.dir/main.obj"
-  "CMakeFiles/Roteiro0.dir/Quadrado.obj"
-  "CMakeFiles/Roteiro0.dir/Soma.obj"
-  "CMakeFiles/Roteiro0.dir/Fatorial.obj"
+  "CMakeFiles/Roteiro0.dir/main.c.o"
   "Roteiro0.pdb"
-  "Roteiro0.exe"
-  "Roteiro0.exe.manifest"
-  "libRoteiro0.dll.a"
+  "Roteiro0"
 )
 
 # Per-language clean rules from dependency scanning.
